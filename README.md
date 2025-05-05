@@ -1,7 +1,7 @@
-# TCPASF Discord Bot
+# AdSy V2 Discord Bot
 
 <div align="center">
-  <img src="https://cdn.discordapp.com/banners/1368957661034577972/a9d313e74c7beef53810a0a2c03da6e7.webp?size=1024" alt="TCPASF Bot Banner" width="600"/>
+  <img src="https://cdn.discordapp.com/banners/1345816185828147245/dc162e29d7df3766a58ddeb2954fe0ec.webp?size=4096" alt="TCPASF Bot Banner" width="600"/>
   
   <p>A powerful, feature-rich Discord bot built with Discord.js v14</p>
 
